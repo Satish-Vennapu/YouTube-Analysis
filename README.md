@@ -1,5 +1,7 @@
 # Data Insider: YouTube Tech channels data analysis with YouTube API
 
+![tech](./Outputs/tech.gif)
+
 ## Contents
 1. Introduction
 2. Objectives
